@@ -48,7 +48,7 @@ values  (32768) ;
 
 SELECT 
     *
-FROM
+FROM 
     check_example;
 
 
