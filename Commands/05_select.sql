@@ -9,7 +9,7 @@ create table products(
  product_name varchar(50) not null , 
  price decimal(10, 2) NOT NULL , 
  quantity int , 
- status varchar(50)
+ status varchar(50) 
 )
 
 
